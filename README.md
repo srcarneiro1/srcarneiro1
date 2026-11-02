@@ -79,7 +79,15 @@ Meus interesses de pesquisa incluem arquivologia, redes de informação, víncul
 
 ## GitHub Activity / Atividade no GitHub
 
-Public activity and repositories can be explored directly on [my GitHub profile](https://github.com/srcarneiro1?tab=overview) and [public repositories](https://github.com/srcarneiro1?tab=repositories).
+The cards below are generated daily by GitHub Actions using the repository's built-in `GITHUB_TOKEN` and public GitHub data only. They will appear after the first successful workflow run.
 
-*Automated public-only statistics are planned for a separate workflow. No unverified metrics are displayed.*  
-*Indicadores automatizados de dados públicos estão previstos para uma etapa separada. Nenhuma métrica não verificada é exibida.*
+Os cartões abaixo são gerados diariamente pelo GitHub Actions, usando apenas o `GITHUB_TOKEN` integrado ao repositório e dados públicos. Eles aparecerão após a primeira execução bem-sucedida.
+
+![Public GitHub statistics / Estatísticas públicas do GitHub](./profile/stats.svg)
+
+![Public repository languages / Linguagens dos repositórios públicos](./profile/top-langs.svg)
+
+[Public repositories / Repositórios públicos](https://github.com/srcarneiro1?tab=repositories)
+
+*Statistics may include all public repositories, including projects not featured in this portfolio. Private repositories are not queried.*  
+*As estatísticas podem incluir todos os repositórios públicos, inclusive projetos não destacados neste portfólio. Repositórios privados não são consultados.*

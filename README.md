@@ -8,6 +8,10 @@
 *Transforming operational complexity into reliable, data-driven solutions.*  
 *Transformando a complexidade operacional em soluções confiáveis e orientadas por dados.*
 
+<!-- TODO: replace the placeholder below with your public LinkedIn handle (or remove the badge). -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO/)
+[![GitHub](https://img.shields.io/badge/GitHub-srcarneiro1-181717?style=flat&logo=github&logoColor=white)](https://github.com/srcarneiro1)
+
 </div>
 
 ```text
@@ -20,9 +24,7 @@ Research   Archival Science · Information Governance
 Principles Security · Reliability · Traceability
 ```
 
-## About Me / Sobre Mim
-
-**EN**
+## About Me
 
 I develop technology-driven solutions focused on process automation, data analytics, operational efficiency, and information management.
 
@@ -30,13 +32,18 @@ My work connects business processes with software development, transforming oper
 
 I am particularly interested in software engineering, applied artificial intelligence, data governance, and building secure, reliable, and maintainable systems.
 
-**PT-BR**
+<details>
+<summary><b>🇧🇷 Sobre mim (Português)</b></summary>
+
+<br>
 
 Desenvolvo soluções tecnológicas voltadas à automação de processos, análise de dados, eficiência operacional e gestão da informação.
 
 Minha atuação conecta processos de negócio ao desenvolvimento de software, transformando necessidades operacionais em aplicações práticas, ferramentas analíticas e fluxos automatizados.
 
 Tenho especial interesse em engenharia de software, inteligência artificial aplicada, governança de dados e construção de sistemas seguros, confiáveis e sustentáveis.
+
+</details>
 
 ## Technologies / Tecnologias
 
@@ -52,23 +59,29 @@ Tenho especial interesse em engenharia de software, inteligência artificial apl
 
 ### [Archival Network Analysis — APEES](https://github.com/srcarneiro1/archival-network-analysis-apees)
 
-**EN:** Research materials for an archival information-network analysis applied to historical police inquiry records from the Espírito Santo State Public Archive. Includes data tables, GML networks, Gephi projects, and OpenRefine-related materials.
+`Research` · `Gephi` · `OpenRefine` · `GML`
 
-**PT-BR:** Materiais de pesquisa em análise de redes de informação arquivística aplicada a registros históricos de inquéritos policiais do Arquivo Público do Estado do Espírito Santo. Inclui bases tabulares, redes GML, projetos Gephi e materiais relacionados ao OpenRefine.
+Archival information-network analysis applied to historical police inquiry records from the Espírito Santo State Public Archive. Includes data tables, GML networks, Gephi projects, and OpenRefine-related materials. It supports my research on archival science, information networks, archival bonds, and information governance.
+
+<details>
+<summary>🇧🇷 Português</summary>
+
+Análise de redes de informação arquivística aplicada a registros históricos de inquéritos policiais do Arquivo Público do Estado do Espírito Santo. Inclui bases tabulares, redes GML, projetos Gephi e materiais relacionados ao OpenRefine. Apoia minha pesquisa em arquivologia, redes de informação, vínculo arquivístico e governança da informação.
+
+</details>
 
 ### [Os 7 Hábitos — Guia de Leitura](https://github.com/srcarneiro1/resumo-7-habitos)
 
-**EN:** A responsive HTML/CSS educational reading guide with structured explanations and practical examples inspired by *The 7 Habits of Highly Effective People*.
+`HTML` · `CSS` · `Responsive design`
 
-**PT-BR:** Guia educacional de leitura em HTML/CSS responsivo, com explicações estruturadas e exemplos práticos sobre *Os 7 Hábitos das Pessoas Altamente Eficazes*.
+A responsive educational reading guide with structured explanations and practical examples inspired by *The 7 Habits of Highly Effective People*.
 
-## Academic Research / Pesquisa Acadêmica
+<details>
+<summary>🇧🇷 Português</summary>
 
-My research interests include archival science, information networks, archival bonds, and information governance.
+Guia educacional de leitura responsivo, com explicações estruturadas e exemplos práticos sobre *Os 7 Hábitos das Pessoas Altamente Eficazes*.
 
-Meus interesses de pesquisa incluem arquivologia, redes de informação, vínculo arquivístico e governança da informação.
-
-**Research repository / Repositório de pesquisa:** [Archival Network Analysis — APEES](https://github.com/srcarneiro1/archival-network-analysis-apees)
+</details>
 
 ## Engineering Principles / Princípios de Engenharia
 
@@ -79,15 +92,17 @@ Meus interesses de pesquisa incluem arquivologia, redes de informação, víncul
 
 ## GitHub Activity / Atividade no GitHub
 
-The cards below are generated daily by GitHub Actions using the repository's built-in `GITHUB_TOKEN` and public GitHub data only. They will appear after the first successful workflow run.
-
-Os cartões abaixo são gerados diariamente pelo GitHub Actions, usando apenas o `GITHUB_TOKEN` integrado ao repositório e dados públicos. Eles aparecerão após a primeira execução bem-sucedida.
-
-![Public GitHub statistics / Estatísticas públicas do GitHub](./profile/stats.svg)
-
-![Public repository languages / Linguagens dos repositórios públicos](./profile/top-langs.svg)
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img alt="Public GitHub statistics / Estatísticas públicas do GitHub" src="./profile/stats-light.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img alt="Public repository languages / Linguagens dos repositórios públicos" src="./profile/top-langs-light.svg">
+  </picture>
+</p>
 
 [Public repositories / Repositórios públicos](https://github.com/srcarneiro1?tab=repositories)
 
-*Statistics may include all public repositories, including projects not featured in this portfolio. Private repositories are not queried.*  
-*As estatísticas podem incluir todos os repositórios públicos, inclusive projetos não destacados neste portfólio. Repositórios privados não são consultados.*
+<sub>Cards generated daily by GitHub Actions using only the built-in <code>GITHUB_TOKEN</code> and public data; private repositories are not queried. · Cartões gerados diariamente pelo GitHub Actions usando apenas o <code>GITHUB_TOKEN</code> integrado e dados públicos; repositórios privados não são consultados.</sub>
